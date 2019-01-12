@@ -1,0 +1,25 @@
+# Delta-DevOp
+Project Delta Devop (Self Project)
+
+This is an e-commerce web store project .
+Software is built using following technologies :
+
+1. Front-end :
+  * HTML
+  * CSS
+  * JavaScript
+2. Back-end :
+  * JSP
+  * Spring Web
+  * Spring Boot
+  * Spring Data JPA
+  * Database MySQL & H2 ( Both used for development purpose )
+
+Project description :
+In this project there are 4 levels of user :
+  1. Customer : These are daily users , who will use this software to buy products . There are also login / registration operations for them .
+  2. Administrator : This is the highest level of all users , using the system . He / she can maintain the system back-end users , maintain products , monitor on his employes , etc.
+  3. Product Manager : His / her duty is to managing product details ; example add , remove , edit , etc both details and photos .
+  4. Product Delivery Manager : His / her duty is to generate bill , and to deal with delivery information .
+
+This software can also track on ip address of the user for security reasons .
