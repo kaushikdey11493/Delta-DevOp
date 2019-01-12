@@ -8,14 +8,19 @@ Software is built using following technologies :
   * HTML
   * CSS
   * JavaScript
+  
 2. Back-end :
   * JSP
   * Spring Web
   * Spring Boot
   * Spring Data JPA
   * Database MySQL & H2 ( Both used for development purpose )
+  
+3. The project is temporarily hosted in Pivotal Web Services .
+
 
 Project description :
+
 In this project there are 4 levels of user :
   1. Customer : These are daily users , who will use this software to buy products . There are also login / registration operations for them .
   2. Administrator : This is the highest level of all users , using the system . He / she can maintain the system back-end users , maintain products , monitor on his employes , etc.
