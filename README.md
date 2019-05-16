@@ -18,7 +18,7 @@ Software is built using following technologies :
   * Spring Data JPA
   * Database MySQL & H2 ( Both used for development purpose )
   
-3. The project is temporarily hosted in Pivotal Web Services .
+3. The project was temporarily hosted in Pivotal Web Services .
 
 
 Project description :
